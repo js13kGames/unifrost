@@ -3,6 +3,7 @@ genres:
   - platformer
   - adventure
 # See github.com/js13kGames/hello-world for supported frontmatter
+post: "https://nallebeorn.se/blog/js13k2026-post-mortem/"
 ---
 
 Gallop, leap, and fling yourself across the clouds in search of the seven lost shards of the Bifrost in this 3D platformer!
